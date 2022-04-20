@@ -7,5 +7,6 @@ This repository contains examples for:
 * SPI Interface with MCP23S08
 * I2C Interface with MCP23017
 * GPIO as Input and Output
+* UART with a UART-to-USB adapter
 
 I use a Raspberry Pi 3 for these examples, but it should also work with other GNU/Linux Embedded Devices (e.g. Beaglebones, ...).
